@@ -3,7 +3,7 @@ img {
   height: 100%;
 }
 .column {
-  width: 30%;
+  width: 300px;
   height: 500%;
   float: left;
   margin: 10px;
